@@ -13,3 +13,5 @@ If you use this solver for research, please cite the paper above.
 The SHOT solver consists of two Mathematica applications. The first is the main solver contained in the file SHOT.m and the second is contained in the file OSiLReader.m, and is a parser for the OSiL format, which is an XML-based file format for optimization problems and included as a part of the [Optimization Services project](http://www.coin-or.org/) of the [COIN-OR]((http://www.coin-or.org/)) open source initiative. The second is not strictly required, and it is possible to input problems manually in Mathematica syntax as well.
 
 Note that the performance of this solver is not as good as for the C++ version detailed in the paper above. The main reason for this is due to the fact that the LinearProgramming solver used to solve the mixed-integer linear programming (MILP) subproblems in Mathematica is not as efficient as those used in the other implementation. 
+
+See the included PDF file (or the original NB-file) for more information about how to install or use the solver. Of course a version of Mathematica is needed; the solver has been tested with Mathematica 10. 
