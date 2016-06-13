@@ -1,5 +1,4 @@
-# MathematicaSHOT
-The Supporting Hyperplane Optimization Toolkit (SHOT) solver for convex mixed-integer nonlinear programming (MINLP)
+# The Supporting Hyperplane Optimization Toolkit (SHOT) solver for convex mixed-integer nonlinear programming (MINLP)
 
 This implementation of the extended supporting hyperplane (ESH) and extended cutting plane (ECP) algorithms for solving convex mixed-integer nonlinear programming (MINLP) problems is made by Andreas Lundell, andreas.lundell@abo.fi.
 
